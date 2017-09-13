@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScrollingBackground/ScrollingShader.shader">
+    <Files>
+      <File FileName="Assets/SequenceAnimation/ImageSequenceAnimation.shader" Line="54" Column="19" />
+      <File FileName="Assets/ScrollingBackground/ScrollingShader.shader" Line="43" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

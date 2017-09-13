@@ -1,0 +1,4 @@
+ShaderLearn/Library/
+ShaderLearn/Temp/
+ShaderLearn/Obj/
+*.csproj
