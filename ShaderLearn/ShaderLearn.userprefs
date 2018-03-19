@@ -1,19 +1,16 @@
-﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader">
+﻿<Properties StartupConfiguration="{61F67C70-F491-EE5A-0AE3-E64073B4F853}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AlphaBlend/Chapter8-AlphaBlend.shader">
     <Files>
-      <File FileName="Assets/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader" Line="34" Column="25" />
-      <File FileName="Assets/OpaquePartTransparent/OpaquePartTransparent.shader" Line="1" Column="1" />
-      <File FileName="Assets/FlowLight/3d/3dFlowLight.shader" Line="46" Column="4" />
-      <File FileName="Assets/SequenceAnimation/ImageSequenceAnimation.shader" Line="1" Column="1" />
-      <File FileName="Assets/ScrollingBackground/ScrollingShader.shader" Line="1" Column="1" />
-      <File FileName="Assets/FlowLight/2d/2dFlowLight.shader" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets/Environment/Water/Water/Scripts/Water.cs" Line="207" Column="14" />
-      <File FileName="Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader" Line="1" Column="1" />
+      <File FileName="Assets/GeometryBaoZha/GeometryBaoZha.shader" Line="89" Column="29" />
+      <File FileName="Assets/AlphaBlend/Chapter8-AlphaBlendZWrite.shader" Line="17" Column="15" />
+      <File FileName="Assets/AlphaBlend/Chapter8-AlphaBlend.shader" Line="19" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShaderLearn PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
 </Properties>

@@ -1,14 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderLearn", "Assembly-CSharp-firstpass.csproj", "{883E690F-A040-655B-683D-E5282E5FF5EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderLearn", "Assembly-CSharp.csproj", "{388B6A51-CE38-2D95-A510-0328B1D74D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderLearn", "Assembly-CSharp-Editor-firstpass.csproj", "{1ED3F8DB-68C3-F226-5141-DB818A8D8C87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{883E690F-A040-655B-683D-E5282E5FF5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883E690F-A040-655B-683D-E5282E5FF5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883E690F-A040-655B-683D-E5282E5FF5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883E690F-A040-655B-683D-E5282E5FF5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388B6A51-CE38-2D95-A510-0328B1D74D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388B6A51-CE38-2D95-A510-0328B1D74D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388B6A51-CE38-2D95-A510-0328B1D74D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388B6A51-CE38-2D95-A510-0328B1D74D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED3F8DB-68C3-F226-5141-DB818A8D8C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED3F8DB-68C3-F226-5141-DB818A8D8C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED3F8DB-68C3-F226-5141-DB818A8D8C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED3F8DB-68C3-F226-5141-DB818A8D8C87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
